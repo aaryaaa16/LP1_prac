@@ -1,0 +1,8 @@
+TWO 
+&T T
+&W 7
+&O DREG
+ONE 
+&O O
+&N 9
+&E AREG
